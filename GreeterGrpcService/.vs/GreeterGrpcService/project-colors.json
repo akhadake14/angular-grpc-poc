@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "33f56cbd-dc0d-4694-ac15-6f323097de2a": {
+      "ProjectGuid": "33f56cbd-dc0d-4694-ac15-6f323097de2a",
+      "DisplayName": "GreeterGrpcService",
+      "ColorIndex": 0
+    },
+    "f2535191-c1de-4bcc-a074-14861e6c080b": {
+      "ProjectGuid": "f2535191-c1de-4bcc-a074-14861e6c080b",
+      "DisplayName": "ClientConsoleApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
