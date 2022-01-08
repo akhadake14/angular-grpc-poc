@@ -1,4 +1,4 @@
-# angular-grpc-poc
+# Angular-grpc-poc (Calling grpc service from angular )
 
 
 #Referance blog : https://blog.vitas.nl/using_grpc_web_with_.net_core_and_angular.html
